@@ -1,0 +1,28 @@
+.ui.borderless.topmenu.menu {
+  border: none;
+  box-shadow: none;
+}
+
+.middle {
+  background: url('http://murphyshawaii.com/media/2014/04/murphys-front.jpg') no-repeat center center fixed;
+  background-size: cover;
+  height: 500px;
+  background-color: white;
+  font-family: "Comic Sans MS";
+  color: white;
+}
+
+.footer {
+  background-color: #004030;
+  color: white;
+  font-size: 10px;
+  font-family: "Comic Sans MS";
+}
+
+.date.item {
+  font-size: 9px;
+}
+
+.ui.medium.image   {
+  margin: 0;
+}
